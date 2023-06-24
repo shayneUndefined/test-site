@@ -5,7 +5,7 @@ body {
 nav {
     height: 3em; width: 100%; margin: 0; padding: 0;
     background-color: #010101; color: white; display: flex; 
-    justify-content: flex-end; align-content: center; align-items: center;
+    justify-content: space-between; align-content: center; align-items: center;
 }
 nav ul {
     font-family:'Helvetica', Sans-Serif;
@@ -17,6 +17,9 @@ nav ul {
 }
 nav ul li {
     padding: 1em;
+}
+div#logo {
+
 }
 ul#menu li {
 
