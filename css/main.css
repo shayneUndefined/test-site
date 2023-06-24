@@ -12,6 +12,8 @@ nav ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    display: flex; 
+    justify-content: space-around; align-content: center; align-items: center;
 }
 nav ul li {
 
