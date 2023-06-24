@@ -3,10 +3,9 @@ body {
     width: 70%;
 }
 nav {
-    height: 3em; width: 100%;
-    margin: 0; padding: 0;
-    background-color: #010101;
-    color: white;
+    height: 3em; width: 100%; margin: 0; padding: 0;
+    background-color: #010101; color: white; diisplay: flex; 
+    justify-content: space-around; align-content: center; align-items: center;
 }
 nav ul {
     font-family:'Helvetica', Sans-Serif;
